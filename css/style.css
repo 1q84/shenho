@@ -70,7 +70,7 @@
     #article .pic { float: left; margin: 7px 20px 23px 0; }
 /*list*/
 .list { }
-    .list dl { width: 290px;float:left;margin:0 10px 20px 10px; }
+    .list dl { width: 275px;float:left;margin:0 10px 20px 10px; }
         .list dl:hover { border:1px solid #a53937; }
     .list dd, .list dt { margin: 0; padding: 0; }
     .list dt { height:30px;line-height:30px;}
